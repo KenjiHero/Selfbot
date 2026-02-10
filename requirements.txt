@@ -1,5 +1,5 @@
 git+https://github.com/Rapptz/discord.py@184c4302c7fe17a31893f0accf197c975200d233
-requests==2.12.4
+requests==2.20.0
 beautifulsoup4==4.5.3
 strawpy==1.1
 lxml==3.8.0
